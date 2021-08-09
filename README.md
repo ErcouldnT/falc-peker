@@ -1,2 +1,2 @@
-# falc-peker
-falcı peker
+# falcı-peker
+falcı peker app
